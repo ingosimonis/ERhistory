@@ -1,0 +1,6 @@
+URL;PublicationDate;ReferenceNumber;ReferenceURL;Initiative;Name;Keywords;Topics
+http://docs.opengeospatial.org/per/17-078.html;2018;17-078;http://www.opengis.net/doc/PER/t13-AB001;Testbed-13;OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering Report;data;Domains.Mass Migration
+http://docs.opengeospatial.org/per/17-038.html;2018;17-038;http://www.opengis.net/doc/PER/t13-DG001;Testbed-13;OGC Testbed-13: Fit-for-Purpose Engineering Report;data, fit-for-purpose;Architecture.Fit-for-Purpose
+http://docs.opengeospatial.org/per/17-029r1.html;2018;17-029r1;http://www.opengis.net/doc/PER/t13-NG009;Testbed-13;OGC Testbed-13: Workflows ER;data, security;Architecture.Security, Architecture.Workflows
+http://docs.opengeospatial.org/per/17-021.html;2018;17-021;http://www.opengis.net/doc/PER/t13-AB002;Testbed-13;OGC Testbed-13: Security ER;security;Architecture.Security
+http://docs.opengeospatial.org/per/17-023.html;2018;17-023;http://www.opengis.net/doc/PER/t13-ES001;Testbed-13;OGC Testbed-13: EP Application Package ER;;Architecture.Cloud, Architecture.BigData, Architecture.Platforms
