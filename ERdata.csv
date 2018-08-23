@@ -41,7 +41,7 @@ http://docs.opengeospatial.org/per/16-029r1.html;2017;16-029r1;http://www.opengi
 http://docs.opengeospatial.org/per/16-030.html;2017;16-030;http://www.opengis.net/doc/PER/t12-A083;Testbed-12;Testbed-12 Testbed-12 GeoPackage Mobile Apps Integration Engineering Report;;DataStorage.GeoPackage, Clients.HCI
 http://docs.opengeospatial.org/per/16-031r1.html;2017;16-031r1;http://www.opengis.net/doc/PER/t12-A085;Testbed-12;Testbed-12 GeoPackage Change Request Evaluations;;DataStorage.GeoPackage
 http://docs.opengeospatial.org/per/16-033r1.html;2017;16-033r1;http://www.opengis.net/doc/PER/t12-NA004;Testbed-12;Testbed-12 WCS Profile Update Engineering Report;;Services.WCS
-http://docs.opengeospatial.org/per/16-034.html;2017;16-034;http://www.opengis.net/doc/PER/t12-A071;Testbed-12;Testbed-12 LiDAR Streaming Engineering Report;SensorML, SOS, OM;Services.SOS, DataModels.LiDAR
+http://docs.opengeospatial.org/per/16-034.html;2017;16-034;http://www.opengis.net/doc/PER/t12-A071;Testbed-12;Testbed-12 LiDAR Streaming Engineering Report;SensorML, SOS, OM, point cloud;Services.SOS, DataModels.LiDAR
 http://docs.opengeospatial.org/per/16-035.html;2017;16-035;http://www.opengis.net/doc/PER/t12-A005-1;Testbed-12;Testbed-12 REST Architecture Engineering Report;GML, GeoJSON, WFS, WMS, WMTS, JSON;Architecture.REST, Services.WMS, Services.WPS
 http://docs.opengeospatial.org/per/16-036r1.html;2017;16-036r1;http://www.opengis.net/doc/PER/t12-A076;Testbed-12;Testbed-12 Big Data Database Engineering Report;SWE;Architecture.BigData
 http://docs.opengeospatial.org/per/16-037.html;2017;16-037;http://www.opengis.net/doc/PER/t12-B004;Testbed-12;Testbed-12 GeoPackage US Topo Engineering Report;WPS, portrayal;DataStorage.GeoPackage, Clients.Portrayal
